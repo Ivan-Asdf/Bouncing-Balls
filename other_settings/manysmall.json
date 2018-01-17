@@ -1,0 +1,21 @@
+{
+  "README": [
+    "width and height - window width and height",
+    "n_balls - number of balls",
+    "r - IF a single number: the constant radius of all balls, IF in format [min:max]: random radius for every circle",
+    "k - IF -1: random spawn coordinates, IF [x,y]: set spawn for all circes",
+    "k_direction - IF -1: random direction , IF \"NE\", \"NW\", \"SE\", \"SW\": set initial direction",
+    "speed - IF single number:(pixel per frame) speed for circles, IF [min,max]: random speed for each circle",
+    "color - IF [R,G,B]: red,green and blue values for color of circles, IF -1: random colors for circles",
+    "fps - frames per second of simulation, WARNING: speed of circles is defined as pixel per frame"
+  ],
+  "width": 1200,
+  "height": 700,
+  "n_balls": 5000,
+  "r": [5,20],
+  "k": -1,
+  "k_direction": -1,
+  "speed": 5,
+  "color": -1,
+  "fps": 60
+}
