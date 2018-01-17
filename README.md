@@ -17,6 +17,8 @@ no requirements
 - color[R,G,B], can be set to random
 - fps(it changes speed of balls(since speed of balls is defined as pixels per fram))
 #### There are a few preset json settings files in the "other_settings" folder. They must be put in main directory and renamed to "settings.json" to work.
+#### Just when closing the window a screenshot is saved("pic.png") in the directory. Thats how the pictures below are made.
+### Examples:
 #### By default there is only one black ball bouncing around
 ![pic](https://user-images.githubusercontent.com/21978255/35055349-af1798e0-fbb7-11e7-977c-a8adcfb9bf94.png)
 #### By using the "generic.json" in "other_settings" folder
