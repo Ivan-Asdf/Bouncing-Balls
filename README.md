@@ -29,7 +29,7 @@ no requirements
 ![pic](https://user-images.githubusercontent.com/21978255/35058073-7aff9f96-fbbf-11e7-9afa-ef3e86591f47.png)
 #### afewbig.json
 ![pic](https://user-images.githubusercontent.com/21978255/35057834-d34fa598-fbbe-11e7-98d8-207f516a5874.png)
-### Just when closing the window a snapshot is saved("pic.png") in the directory. Thats how the pictures above are made.
+
 
 
 
