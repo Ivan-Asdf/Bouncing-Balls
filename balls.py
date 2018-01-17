@@ -140,6 +140,7 @@ balls = sorted(balls, key=getsize, reverse=True)
 while True:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
+            pygame.image.save(screen, "pic.png")
             sys.exit()
 
     screen.fill((200, 200, 200))
